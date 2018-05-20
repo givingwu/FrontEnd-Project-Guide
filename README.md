@@ -72,18 +72,22 @@
 	3. 设计你可能会用到的工作流？
 	4. 如何设计切换工作流时（staging, development, testing, production）的变量？例如：API_URL在不同环境是不一样的
 	5. 让你的构建工具尽可能高效的工作。
+
 1. 选择现有的构建工具
 	1. React create-react-app
 	2. Vue vue-cli
 	3. Angular angular-cli
+
 2 框架选择
 	1. React - 写React的体验，就是在写JavaScript
 	2. Vue - Vue快速开发，最爽的 MVVM，渐进式体验
 	3. Angular - 无话可说
+
 3 技术调研
 	1. 业务中的难点，不熟悉的技术场景
 	2. 可能会用到的三方库，评估和选择，与当前技术栈的接入成本，维护成本
 	3. 是否要自己造？
+
 4 技术确定
 	1. 技术栈
 	2. 组件库
